@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+scikite-learn
+
+pyinstaller --onefile pythonScriptName.py
